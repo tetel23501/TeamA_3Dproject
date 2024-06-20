@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 666396142}
   - component: {fileID: 666396141}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: geound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -393,7 +393,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 79674db77adfc4d6f9f17fb043493b1e, type: 3}
       propertyPath: m_Name
-      value: Main Camera (1)
+      value: Main Camera
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 79674db77adfc4d6f9f17fb043493b1e, type: 3}
       propertyPath: m_LocalPosition.x
